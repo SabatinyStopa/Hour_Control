@@ -49,6 +49,6 @@ Hour_Control -tg -tk YOUR_TOKEN_VALUE -em email@email.com
 
 ```
 -save                    It will save in a txt file to track better the info 
--load                    Load the save.txt (the info is email and token from toggl
+-load                    Load the save.txt (the info is email and token from toggl)
 ```
 
