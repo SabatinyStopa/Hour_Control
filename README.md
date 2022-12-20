@@ -43,4 +43,12 @@ Hour_Control -tg -tk YOUR_TOKEN_VALUE -em email@email.com
 -tg,  --toggl             Use toggl to get Data hours and minutes, this will override the hours and minutes
 -tk,  --token             Your token provide by toggl in the account info
 -em,  --email             Your email to get the hours from your account
-```            
+```
+
+# Save Possibility
+
+```
+-save                    It will save in a txt file to track better the info 
+-load                    Load the save.txt (the info is email and token from toggl
+```
+
