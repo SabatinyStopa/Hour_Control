@@ -1,18 +1,18 @@
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.exe
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.deps.json
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.runtimeconfig.json
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.runtimeconfig.dev.json
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.dll
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\ref\Hour_Control.dll
-C:\Projetos App\Controle para Horas\bin\Debug\net5.0\Hour_Control.pdb
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.csproj.AssemblyReference.cache
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.AssemblyInfoInputs.cache
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.AssemblyInfo.cs
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.csproj.CoreCompileInputs.cache
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.csproj.CopyComplete
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.dll
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\ref\Hour_Control.dll
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.pdb
-C:\Projetos App\Controle para Horas\obj\Debug\net5.0\Hour_Control.genruntimeconfig.cache
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.csproj.AssemblyReference.cache
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.AssemblyInfoInputs.cache
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.AssemblyInfo.cs
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.csproj.CoreCompileInputs.cache
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.exe
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.deps.json
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.runtimeconfig.json
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.runtimeconfig.dev.json
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.dll
+C:\Projects\Hour_Control\bin\Debug\net5.0\Hour_Control.pdb
+C:\Projects\Hour_Control\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.csproj.CopyComplete
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.dll
+C:\Projects\Hour_Control\obj\Debug\net5.0\refint\Hour_Control.dll
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.pdb
+C:\Projects\Hour_Control\obj\Debug\net5.0\Hour_Control.genruntimeconfig.cache
+C:\Projects\Hour_Control\obj\Debug\net5.0\ref\Hour_Control.dll

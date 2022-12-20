@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sONxD7Hftb/cxtIpQvHtSyIvnxlEGM3krm/LPvhjlwhudI7dRf42CR+0KSFDWyM7sBihpBk+7DJXC7rPwW/JIg==",
+  "dgSpecHash": "/Pda6H1siX9JZhKJ2sZ4fzhOtqgRYZuudC/QqKP+6km+1qQ//j1bkxQLeysP1kxJcsBf2KjqvYNs+MCeLRTV3A==",
   "success": true,
-  "projectFilePath": "C:\\Projetos App\\Controle para Horas\\Hour_Control.csproj",
+  "projectFilePath": "C:\\Projects\\Hour_Control\\Hour_Control.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\calam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\calam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
